@@ -1,1 +1,0 @@
-# Zortt Client Source Code
